@@ -1,3 +1,6 @@
+dfjsdllfkjsdljflksjfklsdlkfjsdklfjljsdflkj
+
+
 #PPTP 設定
 :local LocalGW "192.168.0.254"
 :local PPPoeUser "@hinet.net"
