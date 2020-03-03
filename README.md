@@ -1,2 +1,0 @@
-# RouterOS
- Script for RouterOS
