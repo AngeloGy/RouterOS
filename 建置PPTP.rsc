@@ -1,4 +1,3 @@
-dfjsdllfkjsdljflksjfklsdlkfjsdklfjljsdflkj
 
 
 #PPTP 設定
